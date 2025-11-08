@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -26,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Union Find
