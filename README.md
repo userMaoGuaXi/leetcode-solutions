@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0155-min-stack) |
 ## Design
 |  |
